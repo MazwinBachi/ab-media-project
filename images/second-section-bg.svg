@@ -1,0 +1,19 @@
+<svg width="930" height="454" viewBox="0 0 930 454" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M115 227C115 101.631 216.631 0 342 0L703 0C828.369 0 930 101.631 930 227C930 352.369 828.369 454 703 454H342C216.631 454 115 352.369 115 227Z" fill="#0000FE"/>
+<circle opacity="0.1" cx="80" cy="226" r="79" transform="rotate(180 80 226)" stroke="#3D2340" stroke-width="2"/>
+<circle opacity="0.2" cx="96" cy="226" r="79" transform="rotate(180 96 226)" stroke="#3D2340" stroke-width="2"/>
+<circle opacity="0.3" cx="120" cy="226" r="79" transform="rotate(180 120 226)" stroke="#3D2340" stroke-width="2"/>
+<circle opacity="0.4" cx="152" cy="226" r="79" transform="rotate(180 152 226)" stroke="#3D2340" stroke-width="2"/>
+<circle opacity="0.5" cx="195" cy="226" r="79" transform="rotate(180 195 226)" stroke="#3D2340" stroke-width="2"/>
+<circle opacity="0.6" cx="240" cy="226" r="79" transform="rotate(180 240 226)" stroke="#3D2340" stroke-width="2"/>
+<circle opacity="0.8" cx="312" cy="226" r="79" transform="rotate(180 312 226)" stroke="#3D2340" stroke-width="2"/>
+<circle cx="410" cy="226" r="79" transform="rotate(180 410 226)" stroke="#3D2340" stroke-width="2"/>
+<circle cx="590" cy="226" r="80" transform="rotate(180 590 226)" fill="white"/>
+<path d="M1 226H590" stroke="url(#paint0_linear_4942_14471)" stroke-width="2"/>
+<defs>
+<linearGradient id="paint0_linear_4942_14471" x1="689.168" y1="226.991" x2="-0.00168534" y2="226.987" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3D2340"/>
+<stop offset="1" stop-color="#3D2340" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
